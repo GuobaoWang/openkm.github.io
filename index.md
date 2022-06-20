@@ -1,4 +1,4 @@
-## Welcome to Open Kinetic Modeling Initiative
+## Open Kinetic Modeling Initiative
 
 You can use the [editor on GitHub](https://github.com/GuobaoWang/openkm.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
